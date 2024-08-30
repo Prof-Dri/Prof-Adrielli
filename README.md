@@ -1,4 +1,4 @@
-### Boas vinda ao meu perfil 💕
+### Boas vindas ao meu perfil 💕
 
 Sou professora de Tecnologia e Robótica do Ensino Médio na Escola Proffessor Simão Mathias. Assim como meus alunos, também estou aprendendo na plataforma Alura. Juntos, estamos desenvolvendo habilidades na linguagem JavaScript.
 
